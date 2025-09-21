@@ -12,7 +12,7 @@
 
 ### 数据标注视频
 
-![Image](https://github.com/user-attachments/assets/61cd259c-1cbe-458a-800f-2ef342e567e2)
+![Image](https://github.com/user-attachments/assets/bbf2232b-02a3-41ba-9bd2-1a6a07208d5e)
 
 如果无法显示，请点击以下链接访问：[数据标注视频](https://www.bilibili.com/video/BV11WpozkEHp)
 
