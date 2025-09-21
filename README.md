@@ -12,12 +12,12 @@
 
 ### 数据标注视频
 
-&lt;iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115237613215515&bvid=BV11WpozkEHp&cid=32518701329&p=1" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"&gt;&lt;/iframe&gt;
+![Image](https://github.com/user-attachments/assets/61cd259c-1cbe-458a-800f-2ef342e567e2)
 
 如果无法显示，请点击以下链接访问：[数据标注视频](https://www.bilibili.com/video/BV11WpozkEHp)
 
 ### 自动控制游戏游玩视频
 
-&lt;iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115237629989394&bvid=BV1ybpozuEAT&cid=32518704926&p=1" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"&gt;&lt;/iframe&gt;
+![Image](https://github.com/user-attachments/assets/3b1c7db0-431b-47c6-97d5-59e767b015ef)
 
 如果无法显示，请点击以下链接访问：[自动控制游戏游玩视频](https://www.bilibili.com/video/BV1ybpozuEAT)
